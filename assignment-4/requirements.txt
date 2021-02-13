@@ -2,9 +2,6 @@ keras
 tensorflow
 numpy==1.18.*
 scipy
-matplotlib
 pandas
-scikit-learn
 ipython
 ipykernel
-seaborn

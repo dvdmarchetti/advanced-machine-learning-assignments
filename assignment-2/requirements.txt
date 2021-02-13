@@ -1,5 +1,6 @@
 keras
 tensorflow
+tensorflow-addons
 numpy==1.18.*
 scipy
 matplotlib
@@ -8,3 +9,4 @@ scikit-learn
 ipython
 ipykernel
 seaborn
+pydot

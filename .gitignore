@@ -1,3 +1,10 @@
+# Ignore input files
+/assignment-4/input/test/food/
+/assignment-4/input/test/non_food/
+/assignment-4/input/train/food/
+/assignment-4/input/train/non_food/
+/assignment-3/results/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
